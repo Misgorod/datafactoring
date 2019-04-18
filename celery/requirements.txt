@@ -1,0 +1,10 @@
+celery
+redis
+amqp
+matplotlib
+pandas
+numpy
+scipy
+mongoengine
+openpyxl
+yagmail

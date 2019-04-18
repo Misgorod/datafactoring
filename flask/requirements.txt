@@ -1,0 +1,7 @@
+Flask
+mongoengine
+pandas
+celery
+redis
+amqp
+scipy
